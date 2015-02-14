@@ -1,0 +1,20 @@
+{
+  "name": "custom-keyboard-shortcuts",
+  "version": "0.0.1",
+  "description": "Simple Chrome extension for customizing some browser keyboard shortcuts.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mntnoe/custom-keyboard-shortcuts.git"
+  },
+  "author": "Mads Navntoft Noe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mntnoe/custom-keyboard-shortcuts/issues"
+  },
+  "homepage": "https://github.com/mntnoe/custom-keyboard-shortcuts",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-zip": "^2.0.2"
+  }
+}
